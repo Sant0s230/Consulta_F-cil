@@ -8,7 +8,7 @@ icon: display
 
 ConsultaFácil — Sistema de Gerenciamento de Consultas.
 
-O nome foi escolhido por comunicar de forma direta e simples a proposta do sistema: tornar&#x20;fácil e centralizado o acompanhamento de consultas médicas e compromissos com outros&#x20;profissionais, evitando esquecimentos e atrasos.
+ConsultaFácil é um site para organizar consultas médicas e acompanhar compromissos de saúde. Sua proposta é reunir os dados das consultas em uma agenda pessoal e facilitar o acompanhamento, com atenção especial às necessidades de pessoas idosas.
 
 ## **Integrantes**
 
@@ -24,7 +24,5 @@ O nome foi escolhido por comunicar de forma direta e simples a proposta do siste
 
 
 ## Planejamento do  Trabalho e Termo Declaratório da Expo Una26
-
-{% file src=".gitbook/assets/Planejamento_Projeto_A3_ ConsultaFacíl.xlsx" %}
 
 [https://docs.google.com/spreadsheets/d/1CjuL5tHmgoF2\_sHeWn\_cVwyfxQosTF0cSIGgSEmqJf4/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1CjuL5tHmgoF2_sHeWn_cVwyfxQosTF0cSIGgSEmqJf4/edit?usp=sharing)
