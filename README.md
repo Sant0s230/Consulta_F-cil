@@ -4,23 +4,9 @@ icon: display
 
 # 1. Apresentação
 
-## Nome do Projeto
+## Consulta Fácil
 
-ConsultaFácil — Sistema de Gerenciamento de Consultas.
+## Sistema de Gerenciamento de Consultas.
 
-ConsultaFácil é um site para organizar consultas médicas e acompanhar compromissos de saúde. Sua proposta é reunir os dados das consultas em uma agenda pessoal e facilitar o acompanhamento, com atenção especial às necessidades de pessoas idosas.
+O ConsultaFácil é um site com acesso para computador e celular, onde cada usuário cria sua conta registra e organizar suas&#x20;consultas médicas, com os topicotópicos: profissional, especialidade, data, hora, local e o que levar. O sistema destaca a&#x20;próxima consulta, avisa quando ela se aproxima, permite enviá-la ao Google Agenda e pedir&#x20;companhia a um acompanhante pelo WhatsApp.&#x20;
 
-## **Integrantes**
-
-| Nome                                                            | RA        |
-| --------------------------------------------------------------- | --------- |
-| <ol><li>Caio Eduardo Lourenço Batista </li></ol>                | 32618056  |
-| <ol start="2"><li>Daniel Andrade dos Reis</li></ol>             | 326138441 |
-| <ol start="3"><li>Diogo César dos Santos Tavares</li></ol>      | 325214024 |
-| <ol start="4"><li>Gabriel Matheus Abreu de Souza</li></ol>      | 326136213 |
-| <ol start="5"><li>Gustavo Henrique da Costa Roma</li></ol>      | 325219044 |
-| <ol start="6"><li>Pablo Henrique Fernandes dos Santos</li></ol> | 325219811 |
-
-
-
-##
