@@ -2,7 +2,7 @@
 icon: display
 ---
 
-# Apresentação
+# 1. Apresentação
 
 ## Nome do Projeto
 
@@ -23,6 +23,4 @@ ConsultaFácil é um site para organizar consultas médicas e acompanhar comprom
 
 
 
-## Planejamento do  Trabalho e Termo Declaratório da Expo Una26
-
-[https://docs.google.com/spreadsheets/d/1CjuL5tHmgoF2\_sHeWn\_cVwyfxQosTF0cSIGgSEmqJf4/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1CjuL5tHmgoF2_sHeWn_cVwyfxQosTF0cSIGgSEmqJf4/edit?usp=sharing)
+##
