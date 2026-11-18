@@ -7,7 +7,7 @@
 * [5. Público-alvo e usuários](5.-publico-alvo-e-usuarios.md)
 * [6. Descrição da solução](6.-descricao-da-solucao.md)
 * [7. Funcionalidades](7.-funcionalidades.md)
-* [8. Utilização da IA Durante o Projeto](8.-utilizacao-da-ia-durante-o-projeto.md)
+* [8. Inteligência artificial e automação na solução](8.-inteligencia-artificial-e-automacao-na-solucao.md)
 * [9. Informações utilizadas pela solução](9.-informacoes-utilizadas-pela-solucao.md)
 * [10. Tecnologias e ferramentas escolhidas](10.-tecnologias-e-ferramentas-escolhidas.md)
 * [11. Viabilidade e escopo inicial](11.-viabilidade-e-escopo-inicial.md)
