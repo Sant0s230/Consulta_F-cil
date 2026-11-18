@@ -4,13 +4,13 @@ icon: display
 
 # 1. Apresentação
 
-## Consulta Fácil
+## Consulta Fácil - Sistema de Gerenciamento de Consultas
 
-## Sistema de Gerenciamento de Consultas.
+O ConsultaFácil é um site responsável por organizar compromissos relacionados à saúde. O usuário pode registrar consultas, exames e procedimentos, reunindo informações como profissional, especialidade, tipo de compromisso, data, horário, local e orientações sobre o que levar ou fazer antes do atendimento.
 
-O ConsultaFácil é um site com acesso para computador e celular, onde cada usuário cria sua conta registra e organizar suas&#x20;consultas médicas, com os topicotópicos: profissional, especialidade, data, hora, local e o que levar. O sistema destaca a&#x20;próxima consulta, avisa quando ela se aproxima, permite enviá-la ao Google Agenda e pedir&#x20;companhia a um acompanhante pelo WhatsApp.&#x20;
+A agenda destaca o compromisso mais próximo e sinaliza visualmente compromissos atrasados. O sistema também permite abrir um evento preenchido no Google Agenda e preparar uma mensagem para um acompanhante pelo WhatsApp. O usuário revisa e confirma essas ações nos serviços externos.
 
-[https://facilconsulta.com.br/site/assets/img/facebook.png](https://facilconsulta.com.br/site/assets/img/facebook.png)
+O projeto considera pessoas com diferentes níveis de familiaridade com tecnologia, com atenção especial a pessoas idosas e a usuários com necessidades de acessibilidade. O nome Consulta Fácil foi escolhido por comunicar a proposta de reunir as informações dos compromissos de saúde em um só lugar.
 
 
 
