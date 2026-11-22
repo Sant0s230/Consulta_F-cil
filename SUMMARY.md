@@ -2,7 +2,7 @@
 
 * [1. Apresentação](README.md)
 * [2. Integrantes](2.-integrantes.md)
-* [3. Problemas ou Oportunidade Identificada](3.-problemas-ou-oportunidade-identificada.md)
+* [3. Problemas ou Oportunidades Identificadas](3.-problemas-ou-oportunidades-identificadas.md)
 * [4. Área de aplicação](4.-area-de-aplicacao.md)
 * [5. Público-alvo e usuários](5.-publico-alvo-e-usuarios.md)
 * [6. Descrição da solução](6.-descricao-da-solucao.md)
