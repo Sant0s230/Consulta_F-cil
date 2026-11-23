@@ -16,9 +16,7 @@ O projeto considera pessoas com diferentes níveis de familiaridade com tecnolog
 
 ### Protótipo&#x20;
 
-{% embed url="https://projeto-consultafacil-una.lovable.app" %}
-
-
+{% embed url="https://projeto-consultafacil-una.lovable.app/" %}
 
 ### GitHub
 
