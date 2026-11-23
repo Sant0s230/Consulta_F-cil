@@ -16,10 +16,10 @@ O projeto considera pessoas com diferentes níveis de familiaridade com tecnolog
 
 ### Protótipo&#x20;
 
-[https://projeto-consultafacil-una.lovable.app](https://projeto-consultafacil-una.lovable.app)
+{% embed url="https://projeto-consultafacil-una.lovable.app" %}
 
 
 
 ### GitHub
 
-[https://github.com/gustavoroma62-max/projeto-consultafacil-una](https://github.com/gustavoroma62-max/projeto-consultafacil-una)
+{% embed url="https://github.com/gustavoroma62-max/projeto-consultafacil-una" %}
